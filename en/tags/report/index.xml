@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/report/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>Report</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Report</title>
+      <link>https://alsalemshaker.github.io/en/tags/report/</link>
+    </image>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://alsalemshaker.github.io/en/publication/03/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-is-proper-formatting-important&#34;&gt;📌 Why is Proper Formatting Important?&lt;/h2&gt;
+&lt;p&gt;A report is not just a text with results but a document that should be clear, logical, and neatly organized.&lt;br&gt;
+Proper formatting helps the professor or research supervisor quickly understand the work done and evaluate its quality.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-elements-of-a-report&#34;&gt;📝 Key Elements of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title Page&lt;/strong&gt; — name of the work, student’s full name, group, faculty, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Objective and Tasks&lt;/strong&gt; — a short description of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Process&lt;/strong&gt; — step-by-step explanation of actions, calculations, or code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt; — obtained data, tables, and graphs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — a brief analysis of what was achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — sources used.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;For report formatting, I usually use &lt;strong&gt;Markdown&lt;/strong&gt; or &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;br&gt;
+Markdown is convenient for quick lab work: the text is easy to structure and convert into PDF.&lt;br&gt;
+LaTeX, on the other hand, is better suited for more serious documents with formulas and tables — it’s ideal for math and programming tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎯 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a consistent style throughout the document (font, headings, spacing).&lt;/li&gt;
+&lt;li&gt;Add illustrations and diagrams if they help explain the material.&lt;/li&gt;
+&lt;li&gt;Check spelling and grammar before submission.&lt;/li&gt;
+&lt;li&gt;Keep the writing concise and to the point, avoiding unnecessary information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-plans&#34;&gt;🚀 Future Plans&lt;/h2&gt;
+&lt;p&gt;I want to set up a LaTeX template for automatically formatting lab and coursework reports.&lt;br&gt;
+This will allow me to focus on the content instead of formatting details.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/project/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://alsalemshaker.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://alsalemshaker.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-have-a-personal-website&#34;&gt;🌐 Why Have a Personal Website?&lt;/h2&gt;
+&lt;p&gt;For a modern student and future researcher, a personal website is a business card in the academic and scientific world.&lt;br&gt;
+It helps share research results, publish articles, and showcase academic and project achievements. Such a site builds a professional image and makes networking with colleagues easier.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;🛠 Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (now known as &lt;em&gt;Wowchemy&lt;/em&gt;) is one of the most popular themes for the Hugo static site generator.&lt;br&gt;
+Its advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy customization for personal needs.&lt;/li&gt;
+&lt;li&gt;Built-in support for sections like publications, projects, CV, and news.&lt;/li&gt;
+&lt;li&gt;Quick deployment on GitHub Pages or Netlify.&lt;/li&gt;
+&lt;li&gt;Responsive design that looks great both on desktop and mobile devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;📚 Personal Experience&lt;/h2&gt;
+&lt;p&gt;I started building my personal academic website using &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;br&gt;
+I added an &lt;em&gt;“About Me”&lt;/em&gt; section to introduce my field of study and research interests. I also configured blocks for &lt;em&gt;publications&lt;/em&gt; and &lt;em&gt;projects&lt;/em&gt;, along with a feed for short notes and posts about student life.&lt;/p&gt;
+&lt;p&gt;The process turned out to be straightforward: basic knowledge of Git and Markdown was enough to get started. The main challenge was customizing the theme to fit my needs and understanding the configuration system.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-whats-next&#34;&gt;🚀 What’s Next?&lt;/h2&gt;
+&lt;p&gt;My plans include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regularly updating the website and maintaining a blog about student projects.&lt;/li&gt;
+&lt;li&gt;Adding materials on computer science and code examples.&lt;/li&gt;
+&lt;li&gt;Creating a section with presentations and conference talks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Building a personal website has been a great way to combine IT practice with developing my academic profile.&lt;br&gt;
+And the best part — the site is fully under my control and reflects my vision of a professional path.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

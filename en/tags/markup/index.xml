@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/markup/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup</title>
+      <link>https://alsalemshaker.github.io/en/tags/markup/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://alsalemshaker.github.io/en/publication/02/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-lightweight-markup-languages&#34;&gt;📌 What are Lightweight Markup Languages?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are convenient tools for text formatting that allow you to focus on content rather than complex layout.&lt;br&gt;
+They are used for writing documentation, notes, research papers, and even entire websites.&lt;/p&gt;
+&lt;p&gt;Unlike HTML or LaTeX, these languages are simpler to use and much easier to read in raw form.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-most-popular-languages&#34;&gt;✍️ The Most Popular Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — the most widely used. Common on GitHub, blogs, and CMS platforms. Simple and intuitive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — widely adopted in the Python community for documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — powerful, well-suited for technical documentation and books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;I most often work with &lt;strong&gt;Markdown&lt;/strong&gt; since it’s perfect for notes, study summaries, and posts.&lt;br&gt;
+It makes it easy to structure text: add headings, lists, links, or images.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

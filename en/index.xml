@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaker Alsalem</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Shaker Alsalem</title>
+      <link>https://alsalemshaker.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://alsalemshaker.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Steps in Computer Science</title>
+      <link>https://alsalemshaker.github.io/en/publication/05/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-my-first-impressions&#34;&gt;📌 My First Impressions&lt;/h2&gt;
+&lt;p&gt;The start of my studies in &lt;em&gt;Computer Science&lt;/em&gt; has been very intense.&lt;br&gt;
+From the very first month, we immersed ourselves in mathematics, the basics of algorithmization, and programming.&lt;br&gt;
+It’s especially fascinating to see how abstract formulas from linear algebra find application in real computations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-programming-practice&#34;&gt;💻 Programming Practice&lt;/h2&gt;
+&lt;p&gt;The first assignments in &lt;strong&gt;C++&lt;/strong&gt; taught me patience: sometimes compiler errors take more time to fix than writing the code itself.&lt;br&gt;
+But it is precisely through such tasks that understanding of program structure and algorithm logic comes.&lt;/p&gt;
+&lt;p&gt;In addition, we began learning &lt;strong&gt;Python&lt;/strong&gt;. This language felt more “friendly” for beginners, while still being just as powerful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-life-at-rudn&#34;&gt;🌍 Life at RUDN&lt;/h2&gt;
+&lt;p&gt;One of the advantages of the university, in my opinion, is its international atmosphere.&lt;br&gt;
+Communicating with students from different countries broadens my horizons and allows me to learn how IT is studied in other parts of the world.&lt;br&gt;
+We are already discussing joint projects and sharing experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-goals-and-plans&#34;&gt;🚀 Goals and Plans&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a strong foundation in algorithms and data structures.&lt;/li&gt;
+&lt;li&gt;Actively participate in student IT clubs and hackathons.&lt;/li&gt;
+&lt;li&gt;Prepare my first small projects to showcase on GitHub.&lt;/li&gt;
+&lt;li&gt;Start building a portfolio and sharing my progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Computer science is a path that requires persistence, but every small victory motivates me to keep moving forward.&lt;br&gt;
+I am confident that this is where the foundation for future research and projects is being laid.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://alsalemshaker.github.io/en/publication/02/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-lightweight-markup-languages&#34;&gt;📌 What are Lightweight Markup Languages?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are convenient tools for text formatting that allow you to focus on content rather than complex layout.&lt;br&gt;
+They are used for writing documentation, notes, research papers, and even entire websites.&lt;/p&gt;
+&lt;p&gt;Unlike HTML or LaTeX, these languages are simpler to use and much easier to read in raw form.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-most-popular-languages&#34;&gt;✍️ The Most Popular Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — the most widely used. Common on GitHub, blogs, and CMS platforms. Simple and intuitive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — widely adopted in the Python community for documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — powerful, well-suited for technical documentation and books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;I most often work with &lt;strong&gt;Markdown&lt;/strong&gt; since it’s perfect for notes, study summaries, and posts.&lt;br&gt;
+It makes it easy to structure text: add headings, lists, links, or images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://alsalemshaker.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-have-a-personal-website&#34;&gt;🌐 Why Have a Personal Website?&lt;/h2&gt;
+&lt;p&gt;For a modern student and future researcher, a personal website is a business card in the academic and scientific world.&lt;br&gt;
+It helps share research results, publish articles, and showcase academic and project achievements. Such a site builds a professional image and makes networking with colleagues easier.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;🛠 Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (now known as &lt;em&gt;Wowchemy&lt;/em&gt;) is one of the most popular themes for the Hugo static site generator.&lt;br&gt;
+Its advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy customization for personal needs.&lt;/li&gt;
+&lt;li&gt;Built-in support for sections like publications, projects, CV, and news.&lt;/li&gt;
+&lt;li&gt;Quick deployment on GitHub Pages or Netlify.&lt;/li&gt;
+&lt;li&gt;Responsive design that looks great both on desktop and mobile devices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;📚 Personal Experience&lt;/h2&gt;
+&lt;p&gt;I started building my personal academic website using &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;br&gt;
+I added an &lt;em&gt;“About Me”&lt;/em&gt; section to introduce my field of study and research interests. I also configured blocks for &lt;em&gt;publications&lt;/em&gt; and &lt;em&gt;projects&lt;/em&gt;, along with a feed for short notes and posts about student life.&lt;/p&gt;
+&lt;p&gt;The process turned out to be straightforward: basic knowledge of Git and Markdown was enough to get started. The main challenge was customizing the theme to fit my needs and understanding the configuration system.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-whats-next&#34;&gt;🚀 What’s Next?&lt;/h2&gt;
+&lt;p&gt;My plans include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regularly updating the website and maintaining a blog about student projects.&lt;/li&gt;
+&lt;li&gt;Adding materials on computer science and code examples.&lt;/li&gt;
+&lt;li&gt;Creating a section with presentations and conference talks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Building a personal website has been a great way to combine IT practice with developing my academic profile.&lt;br&gt;
+And the best part — the site is fully under my control and reflects my vision of a professional path.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://alsalemshaker.github.io/en/publication/03/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-is-proper-formatting-important&#34;&gt;📌 Why is Proper Formatting Important?&lt;/h2&gt;
+&lt;p&gt;A report is not just a text with results but a document that should be clear, logical, and neatly organized.&lt;br&gt;
+Proper formatting helps the professor or research supervisor quickly understand the work done and evaluate its quality.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-elements-of-a-report&#34;&gt;📝 Key Elements of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title Page&lt;/strong&gt; — name of the work, student’s full name, group, faculty, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Objective and Tasks&lt;/strong&gt; — a short description of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Process&lt;/strong&gt; — step-by-step explanation of actions, calculations, or code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt; — obtained data, tables, and graphs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — a brief analysis of what was achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — sources used.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;For report formatting, I usually use &lt;strong&gt;Markdown&lt;/strong&gt; or &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;br&gt;
+Markdown is convenient for quick lab work: the text is easy to structure and convert into PDF.&lt;br&gt;
+LaTeX, on the other hand, is better suited for more serious documents with formulas and tables — it’s ideal for math and programming tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎯 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a consistent style throughout the document (font, headings, spacing).&lt;/li&gt;
+&lt;li&gt;Add illustrations and diagrams if they help explain the material.&lt;/li&gt;
+&lt;li&gt;Check spelling and grammar before submission.&lt;/li&gt;
+&lt;li&gt;Keep the writing concise and to the point, avoiding unnecessary information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-plans&#34;&gt;🚀 Future Plans&lt;/h2&gt;
+&lt;p&gt;I want to set up a LaTeX template for automatically formatting lab and coursework reports.&lt;br&gt;
+This will allow me to focus on the content instead of formatting details.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://alsalemshaker.github.io/en/publication/04/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-are-scientific-programming-languages&#34;&gt;📌 What are Scientific Programming Languages?&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are tools specifically designed to solve computationally intensive tasks: data analysis, physical process modeling, and working with large datasets.&lt;br&gt;
+They allow researchers to focus on problem-solving rather than the details of low-level programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-languages-in-science&#34;&gt;🔬 Popular Languages in Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — a classic of numerical computing. Still widely used in physics, chemistry, and engineering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — a powerful tool for data analysis, signal processing, and plotting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — a versatile language that, thanks to libraries (&lt;em&gt;NumPy, SciPy, Matplotlib, TensorFlow&lt;/em&gt;), has become a standard in scientific research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — a language for statistics and data analysis, especially popular in biology and sociology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language combining Python’s simplicity with C’s speed, rapidly gaining popularity among researchers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;In my first university courses, I started working with &lt;strong&gt;Python&lt;/strong&gt;. It proved very convenient for academic tasks and lab experiments.&lt;br&gt;
+With NumPy and Matplotlib, it’s easy to solve a linear algebra problem and immediately visualize the results.&lt;/p&gt;
+&lt;p&gt;I also tried MATLAB for numerical methods — I liked its simplicity in handling matrix operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-this-important-for-students&#34;&gt;🚀 Why is this Important for Students?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps reinforce theoretical knowledge through practice.&lt;/li&gt;
+&lt;li&gt;Provides skills valued in both research and industry.&lt;/li&gt;
+&lt;li&gt;Expands opportunities: from writing simple scripts to working with artificial intelligence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-learning-plans&#34;&gt;📖 Future Learning Plans&lt;/h2&gt;
+&lt;p&gt;In the future, I want to try &lt;strong&gt;Julia&lt;/strong&gt; and explore R more deeply for statistics.&lt;br&gt;
+Combining several languages will allow me to approach research tasks flexibly and find the most efficient solutions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://alsalemshaker.github.io/en/publication/01/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-version-control&#34;&gt;📌 What is Version Control?&lt;/h2&gt;
+&lt;p&gt;Version control is a system that allows you to track changes in code or documents, roll back to previous states, and collaborate on projects as a team.&lt;br&gt;
+Without such a system, development quickly turns into chaos: it becomes hard to understand who changed what and how to merge different people’s work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-git-as-the-de-facto-standard&#34;&gt;🔧 Git as the De Facto Standard&lt;/h2&gt;
+&lt;p&gt;Today, the most widely used tool in programming is &lt;strong&gt;Git&lt;/strong&gt;. It is a distributed version control system that stores the complete history of changes for every developer.&lt;/p&gt;
+&lt;p&gt;Main advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to work offline.&lt;/li&gt;
+&lt;li&gt;Support for branching and merging.&lt;/li&gt;
+&lt;li&gt;Transparent change history.&lt;/li&gt;
+&lt;li&gt;Integration with GitHub, GitLab, Bitbucket, and other platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;In my early university courses, I started learning Git to manage lab work and small projects.&lt;br&gt;
+At first, it wasn’t easy to remember the commands: &lt;code&gt;git add&lt;/code&gt;, &lt;code&gt;git commit&lt;/code&gt;, &lt;code&gt;git push&lt;/code&gt;. But gradually, they became second nature.&lt;br&gt;
+The most useful experience was working in a group: branches helped us divide tasks, and later we carefully merged the results together.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-it-important-for-students&#34;&gt;🚀 Why is it Important for Students?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Projects are always accessible, and any version can be restored.&lt;/li&gt;
+&lt;li&gt;It’s easier to collaborate on term papers and research articles.&lt;/li&gt;
+&lt;li&gt;Git proficiency is highly valued by employers — it’s considered a fundamental skill for IT professionals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-plans&#34;&gt;📖 Future Plans&lt;/h2&gt;
+&lt;p&gt;I want to dive deeper into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;advanced branching techniques;&lt;/li&gt;
+&lt;li&gt;automation with Git Hooks;&lt;/li&gt;
+&lt;li&gt;setting up CI/CD for student projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Version control is not just a tool but a fundamental habit that makes work structured and professional.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fourth Week of August — Adapting to Student Life</title>
+      <link>https://alsalemshaker.github.io/en/post/04/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-22-to-august-28&#34;&gt;📌 Week from August 22 to August 28&lt;/h2&gt;
+&lt;p&gt;This week turned out to be a transitional one. The first orientation lectures took place, along with introductory classes in mathematics and programming.&lt;br&gt;
+Getting to know my group went smoothly — we discussed upcoming assignments and shared expectations.&lt;/p&gt;
+&lt;p&gt;Beyond studies, I joined a student IT community where peers work on projects and take part in hackathons. This is both inspiring and motivating, pushing me to improve my skills faster.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third Week of August — First Meetings and Schedule</title>
+      <link>https://alsalemshaker.github.io/en/post/03/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-15-to-august-21&#34;&gt;📌 Week from August 15 to August 21&lt;/h2&gt;
+&lt;p&gt;This week was marked by organizational meetings. We received our class schedule, got acquainted with the dean’s office, and learned about upcoming faculty events.&lt;/p&gt;
+&lt;p&gt;The highlight was a tour of the RUDN campus. We were shown laboratories, computer classrooms, and the library. It felt clear that many opportunities for growth lie ahead.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Week of August — Getting Ready for Studies</title>
+      <link>https://alsalemshaker.github.io/en/post/02/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-8-to-august-14&#34;&gt;📌 Week from August 8 to August 14&lt;/h2&gt;
+&lt;p&gt;Although classes haven’t started yet, the atmosphere already feels academic. I bought the necessary notebooks, pens, and upgraded my laptop to be ready for programming and online lectures.&lt;/p&gt;
+&lt;p&gt;This week passed in a calm rhythm: I studied English to better understand technical texts.&lt;br&gt;
+In addition, I took part in a student football tournament organized by the community. It was a great way to meet future classmates.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Week of August — Student Holidays</title>
+      <link>https://alsalemshaker.github.io/en/post/01/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-1-to-august-7&#34;&gt;📌 Week from August 1 to August 7&lt;/h2&gt;
+&lt;p&gt;The first week of August went by in the spirit of summer holidays. Most students are still enjoying their break, but the anticipation of the upcoming academic year is already in the air.&lt;br&gt;
+I used this time to finish reading a book on algorithms and practiced a bit of C++.&lt;/p&gt;
+&lt;p&gt;I also spent time walking around Moscow, exploring the city and its cultural landmarks. In the evenings, I watched lectures on YouTube about computer science — I want to enter September feeling more prepared.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://alsalemshaker.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://alsalemshaker.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://alsalemshaker.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; spoiler text=&amp;#34;👉 Click to view the solution&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

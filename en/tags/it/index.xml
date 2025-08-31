@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/it/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>IT</title>
+      <link>https://alsalemshaker.github.io/en/tags/it/</link>
+    </image>
+    
+    <item>
+      <title>First Steps in Computer Science</title>
+      <link>https://alsalemshaker.github.io/en/publication/05/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-my-first-impressions&#34;&gt;📌 My First Impressions&lt;/h2&gt;
+&lt;p&gt;The start of my studies in &lt;em&gt;Computer Science&lt;/em&gt; has been very intense.&lt;br&gt;
+From the very first month, we immersed ourselves in mathematics, the basics of algorithmization, and programming.&lt;br&gt;
+It’s especially fascinating to see how abstract formulas from linear algebra find application in real computations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-programming-practice&#34;&gt;💻 Programming Practice&lt;/h2&gt;
+&lt;p&gt;The first assignments in &lt;strong&gt;C++&lt;/strong&gt; taught me patience: sometimes compiler errors take more time to fix than writing the code itself.&lt;br&gt;
+But it is precisely through such tasks that understanding of program structure and algorithm logic comes.&lt;/p&gt;
+&lt;p&gt;In addition, we began learning &lt;strong&gt;Python&lt;/strong&gt;. This language felt more “friendly” for beginners, while still being just as powerful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-life-at-rudn&#34;&gt;🌍 Life at RUDN&lt;/h2&gt;
+&lt;p&gt;One of the advantages of the university, in my opinion, is its international atmosphere.&lt;br&gt;
+Communicating with students from different countries broadens my horizons and allows me to learn how IT is studied in other parts of the world.&lt;br&gt;
+We are already discussing joint projects and sharing experiences.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-goals-and-plans&#34;&gt;🚀 Goals and Plans&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a strong foundation in algorithms and data structures.&lt;/li&gt;
+&lt;li&gt;Actively participate in student IT clubs and hackathons.&lt;/li&gt;
+&lt;li&gt;Prepare my first small projects to showcase on GitHub.&lt;/li&gt;
+&lt;li&gt;Start building a portfolio and sharing my progress.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✨ Conclusion&lt;/h2&gt;
+&lt;p&gt;Computer science is a path that requires persistence, but every small victory motivates me to keep moving forward.&lt;br&gt;
+I am confident that this is where the foundation for future research and projects is being laid.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://alsalemshaker.github.io/en/publication/02/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-are-lightweight-markup-languages&#34;&gt;📌 What are Lightweight Markup Languages?&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are convenient tools for text formatting that allow you to focus on content rather than complex layout.&lt;br&gt;
+They are used for writing documentation, notes, research papers, and even entire websites.&lt;/p&gt;
+&lt;p&gt;Unlike HTML or LaTeX, these languages are simpler to use and much easier to read in raw form.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-most-popular-languages&#34;&gt;✍️ The Most Popular Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — the most widely used. Common on GitHub, blogs, and CMS platforms. Simple and intuitive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — widely adopted in the Python community for documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — powerful, well-suited for technical documentation and books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;I most often work with &lt;strong&gt;Markdown&lt;/strong&gt; since it’s perfect for notes, study summaries, and posts.&lt;br&gt;
+It makes it easy to structure text: add headings, lists, links, or images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting</title>
+      <link>https://alsalemshaker.github.io/en/publication/03/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-is-proper-formatting-important&#34;&gt;📌 Why is Proper Formatting Important?&lt;/h2&gt;
+&lt;p&gt;A report is not just a text with results but a document that should be clear, logical, and neatly organized.&lt;br&gt;
+Proper formatting helps the professor or research supervisor quickly understand the work done and evaluate its quality.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-elements-of-a-report&#34;&gt;📝 Key Elements of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title Page&lt;/strong&gt; — name of the work, student’s full name, group, faculty, date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Objective and Tasks&lt;/strong&gt; — a short description of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Process&lt;/strong&gt; — step-by-step explanation of actions, calculations, or code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Results&lt;/strong&gt; — obtained data, tables, and graphs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conclusion&lt;/strong&gt; — a brief analysis of what was achieved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;References&lt;/strong&gt; — sources used.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;For report formatting, I usually use &lt;strong&gt;Markdown&lt;/strong&gt; or &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;br&gt;
+Markdown is convenient for quick lab work: the text is easy to structure and convert into PDF.&lt;br&gt;
+LaTeX, on the other hand, is better suited for more serious documents with formulas and tables — it’s ideal for math and programming tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tips-for-students&#34;&gt;🎯 Tips for Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a consistent style throughout the document (font, headings, spacing).&lt;/li&gt;
+&lt;li&gt;Add illustrations and diagrams if they help explain the material.&lt;/li&gt;
+&lt;li&gt;Check spelling and grammar before submission.&lt;/li&gt;
+&lt;li&gt;Keep the writing concise and to the point, avoiding unnecessary information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-plans&#34;&gt;🚀 Future Plans&lt;/h2&gt;
+&lt;p&gt;I want to set up a LaTeX template for automatically formatting lab and coursework reports.&lt;br&gt;
+This will allow me to focus on the content instead of formatting details.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/computing/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computing</title>
+      <link>https://alsalemshaker.github.io/en/tags/computing/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://alsalemshaker.github.io/en/publication/04/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-are-scientific-programming-languages&#34;&gt;📌 What are Scientific Programming Languages?&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are tools specifically designed to solve computationally intensive tasks: data analysis, physical process modeling, and working with large datasets.&lt;br&gt;
+They allow researchers to focus on problem-solving rather than the details of low-level programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-languages-in-science&#34;&gt;🔬 Popular Languages in Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — a classic of numerical computing. Still widely used in physics, chemistry, and engineering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — a powerful tool for data analysis, signal processing, and plotting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — a versatile language that, thanks to libraries (&lt;em&gt;NumPy, SciPy, Matplotlib, TensorFlow&lt;/em&gt;), has become a standard in scientific research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — a language for statistics and data analysis, especially popular in biology and sociology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language combining Python’s simplicity with C’s speed, rapidly gaining popularity among researchers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;In my first university courses, I started working with &lt;strong&gt;Python&lt;/strong&gt;. It proved very convenient for academic tasks and lab experiments.&lt;br&gt;
+With NumPy and Matplotlib, it’s easy to solve a linear algebra problem and immediately visualize the results.&lt;/p&gt;
+&lt;p&gt;I also tried MATLAB for numerical methods — I liked its simplicity in handling matrix operations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-this-important-for-students&#34;&gt;🚀 Why is this Important for Students?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps reinforce theoretical knowledge through practice.&lt;/li&gt;
+&lt;li&gt;Provides skills valued in both research and industry.&lt;/li&gt;
+&lt;li&gt;Expands opportunities: from writing simple scripts to working with artificial intelligence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-learning-plans&#34;&gt;📖 Future Learning Plans&lt;/h2&gt;
+&lt;p&gt;In the future, I want to try &lt;strong&gt;Julia&lt;/strong&gt; and explore R more deeply for statistics.&lt;br&gt;
+Combining several languages will allow me to approach research tasks flexibly and find the most efficient solutions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

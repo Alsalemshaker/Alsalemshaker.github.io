@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version Control | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/version-control/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Version Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Version Control</title>
+      <link>https://alsalemshaker.github.io/en/tags/version-control/</link>
+    </image>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://alsalemshaker.github.io/en/publication/01/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-what-is-version-control&#34;&gt;📌 What is Version Control?&lt;/h2&gt;
+&lt;p&gt;Version control is a system that allows you to track changes in code or documents, roll back to previous states, and collaborate on projects as a team.&lt;br&gt;
+Without such a system, development quickly turns into chaos: it becomes hard to understand who changed what and how to merge different people’s work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-git-as-the-de-facto-standard&#34;&gt;🔧 Git as the De Facto Standard&lt;/h2&gt;
+&lt;p&gt;Today, the most widely used tool in programming is &lt;strong&gt;Git&lt;/strong&gt;. It is a distributed version control system that stores the complete history of changes for every developer.&lt;/p&gt;
+&lt;p&gt;Main advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to work offline.&lt;/li&gt;
+&lt;li&gt;Support for branching and merging.&lt;/li&gt;
+&lt;li&gt;Transparent change history.&lt;/li&gt;
+&lt;li&gt;Integration with GitHub, GitLab, Bitbucket, and other platforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personal-experience&#34;&gt;🧑‍💻 Personal Experience&lt;/h2&gt;
+&lt;p&gt;In my early university courses, I started learning Git to manage lab work and small projects.&lt;br&gt;
+At first, it wasn’t easy to remember the commands: &lt;code&gt;git add&lt;/code&gt;, &lt;code&gt;git commit&lt;/code&gt;, &lt;code&gt;git push&lt;/code&gt;. But gradually, they became second nature.&lt;br&gt;
+The most useful experience was working in a group: branches helped us divide tasks, and later we carefully merged the results together.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-it-important-for-students&#34;&gt;🚀 Why is it Important for Students?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Projects are always accessible, and any version can be restored.&lt;/li&gt;
+&lt;li&gt;It’s easier to collaborate on term papers and research articles.&lt;/li&gt;
+&lt;li&gt;Git proficiency is highly valued by employers — it’s considered a fundamental skill for IT professionals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-future-plans&#34;&gt;📖 Future Plans&lt;/h2&gt;
+&lt;p&gt;I want to dive deeper into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;advanced branching techniques;&lt;/li&gt;
+&lt;li&gt;automation with Git Hooks;&lt;/li&gt;
+&lt;li&gt;setting up CI/CD for student projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Version control is not just a tool but a fundamental habit that makes work structured and professional.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holidays | Shaker Alsalem</title>
+    <link>https://alsalemshaker.github.io/en/tags/holidays/</link>
+      <atom:link href="https://alsalemshaker.github.io/en/tags/holidays/index.xml" rel="self" type="application/rss+xml" />
+    <description>Holidays</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alsalemshaker.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Holidays</title>
+      <link>https://alsalemshaker.github.io/en/tags/holidays/</link>
+    </image>
+    
+    <item>
+      <title>Second Week of August — Getting Ready for Studies</title>
+      <link>https://alsalemshaker.github.io/en/post/02/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-8-to-august-14&#34;&gt;📌 Week from August 8 to August 14&lt;/h2&gt;
+&lt;p&gt;Although classes haven’t started yet, the atmosphere already feels academic. I bought the necessary notebooks, pens, and upgraded my laptop to be ready for programming and online lectures.&lt;/p&gt;
+&lt;p&gt;This week passed in a calm rhythm: I studied English to better understand technical texts.&lt;br&gt;
+In addition, I took part in a student football tournament organized by the community. It was a great way to meet future classmates.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Week of August — Student Holidays</title>
+      <link>https://alsalemshaker.github.io/en/post/01/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alsalemshaker.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-from-august-1-to-august-7&#34;&gt;📌 Week from August 1 to August 7&lt;/h2&gt;
+&lt;p&gt;The first week of August went by in the spirit of summer holidays. Most students are still enjoying their break, but the anticipation of the upcoming academic year is already in the air.&lt;br&gt;
+I used this time to finish reading a book on algorithms and practiced a bit of C++.&lt;/p&gt;
+&lt;p&gt;I also spent time walking around Moscow, exploring the city and its cultural landmarks. In the evenings, I watched lectures on YouTube about computer science — I want to enter September feeling more prepared.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
